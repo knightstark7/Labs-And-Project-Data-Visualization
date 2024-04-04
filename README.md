@@ -1,6 +1,6 @@
-
 # Lab 1,2,3 + Project - Data Visualization
-# Class: 21KHDL
+
+## Course: CSC10108 - 21KHDL
 
 ## Members
 
