@@ -1,4 +1,4 @@
-# Labs and Project in Data Visualization course- CSC10108 - 21KHDL
+# Labs and Project in Data Visualization course - CSC10108 - 21KHDL
 
 ## Contributors Information
 
@@ -9,7 +9,7 @@
 
 ## Description
 
-This repository contains code and documentation for the Data Visualization course HCMUS. It includes lab assignments and a project focusing on data analysis and visualization using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Plotly, and WordCloud.
+This repository contains code and documentation for the Data Visualization course at HCMUS. It includes lab assignments and a project focusing on data analysis and visualization using Python libraries.
 
 ## Labs and Project
 
