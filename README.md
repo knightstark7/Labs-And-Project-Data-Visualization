@@ -9,7 +9,7 @@
 
 ## Description
 
-This repository contains code and documentation for the Data Visualization course at HCMUS. It includes lab assignments and a project focusing on data analysis and visualization using Python libraries.
+This repository contains lab assignments and a project for the Data Visualization course at HCMUS focusing on data analysis and visualization using Python libraries.
 
 ## Labs and Project
 
